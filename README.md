@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Luisa Jaimes 👩‍💻👩‍🔬👩‍🎓 
 
-<!--
-**luferjapa/luferjapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luferjapa/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm Systems Engineer.
+- 📚 I’m currently learning Data Science and Machine Learning.
+- 🤔 I’m looking for help with Neural Networks.
+- 👩‍🏫 I love everything related to the incursion of women in technology.
+- ⛹️‍♀️  I play basketball and ride a bike.
+
+<p align="left">
+  <a href="https://github.com/luferjapa"><img width="400" src="https://github-readme-stats.vercel.app/api?username=luferjapa&show_icons=true&theme=tokyonight">
+  <a href="https://github.com/luferjapa"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luferjapa&hide=html,scss,css&langs_count=10&layout=compact&theme=tokyonight">
+
+<p>
+
