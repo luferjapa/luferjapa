@@ -1,4 +1,4 @@
-### Hi, I'm Luisa Jaimes 👩‍💻👩‍🔬👩‍🎓 
+# Hi, I'm Luisa Jaimes 👩‍💻👩‍🔬👩‍🎓 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luferjapa/)
